@@ -1,4 +1,4 @@
-package patikadev.ch05;
+package patikadev.donguler;
 
 public class OAsalSayi {
 
