@@ -1,4 +1,4 @@
-package patikadev.ch06;
+package patikadev.metotlar;
 
 import java.util.Scanner;
 
