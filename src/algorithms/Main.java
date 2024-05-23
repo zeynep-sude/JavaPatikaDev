@@ -29,7 +29,7 @@ public class Main {
 
 			}
 		}
-		System.out.println(mult);
+		
 
 		int a = 4;
 
