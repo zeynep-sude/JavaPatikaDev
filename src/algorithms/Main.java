@@ -31,7 +31,7 @@ public class Main {
 		}
 		
 
-		int a = 4;
+		int a = 5;
 
 		System.out.print((a >> 1) + (a << 2));
 
